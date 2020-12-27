@@ -1,4 +1,3 @@
-Questions for this assignment
 
 ### web scrape the API lists on this page, and export your result into a CSV file.
 
@@ -16,6 +15,6 @@ https://www.programmableweb.com/category/all/apis
 **• API Description**
 
 
-Your Python code should crawl to all the available "next" pages. Your final result should be approx.
+Your Python code should crawl to all the available "next" pages.
 
 All the best!
