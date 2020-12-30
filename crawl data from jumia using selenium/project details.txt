@@ -1,0 +1,4 @@
+this project will crawl some information about products from jumia website for given categories using selenium 
+and add them in a list of dictionaries.
+
+also it create a database and add this data to it.
